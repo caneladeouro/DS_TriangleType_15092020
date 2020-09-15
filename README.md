@@ -5,7 +5,7 @@ Identificando o tipo de triângulo através de lógica e da linguagem c#
 
 ### Requisitos
 - Será necessário o uso da ferramenta Visual Studio. Link: **https://visualstudio.microsoft.com/pt-br/**
-**mínima versão possível: Visual Studio 2015**
+(**mínima versão possível: Visual Studio 2015**)
 
 ### Como rodar o projeto?
 - Primeiramente abra a solução do projeto no Visual Studio disponível na página rais do projeto.
