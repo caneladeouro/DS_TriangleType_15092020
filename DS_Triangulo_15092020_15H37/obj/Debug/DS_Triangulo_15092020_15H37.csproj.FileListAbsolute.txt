@@ -7,3 +7,4 @@ C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Tri
 C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\obj\Debug\DS_Triangulo_15092020_15H37.csproj.GenerateResource.Cache
 C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\obj\Debug\DS_Triangulo_15092020_15H37.exe
 C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\obj\Debug\DS_Triangulo_15092020_15H37.pdb
+C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\obj\Debug\DS_Triangulo_15092020_15H37.fmrAbout.resources
