@@ -1,0 +1,9 @@
+C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\bin\Debug\DS_Triangulo_15092020_15H37.exe.config
+C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\bin\Debug\DS_Triangulo_15092020_15H37.exe
+C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\bin\Debug\DS_Triangulo_15092020_15H37.pdb
+C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\obj\Debug\DS_Triangulo_15092020_15H37.csprojResolveAssemblyReference.cache
+C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\obj\Debug\DS_Triangulo_15092020_15H37.fmrCalculate.resources
+C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\obj\Debug\DS_Triangulo_15092020_15H37.Properties.Resources.resources
+C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\obj\Debug\DS_Triangulo_15092020_15H37.csproj.GenerateResource.Cache
+C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\obj\Debug\DS_Triangulo_15092020_15H37.exe
+C:\Users\canel\OneDrive - Etec Centro Paula Souza\Documentos\ETEC\2DS2\DS\DS_Triangulo_15092020_15H37\DS_Triangulo_15092020_15H37\obj\Debug\DS_Triangulo_15092020_15H37.pdb
